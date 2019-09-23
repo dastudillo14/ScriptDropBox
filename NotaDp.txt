@@ -1,0 +1,29 @@
+		<<PASOS DENTRO DE DROPBOX>>
+1.- ABRIR https://www.dropbox.com/developers
+2.- IR A LA OPCIÒN <<CREATE APPS>>
+3.- ELEGIR <<DROPBOX API>>
+    3.1.- ELEGIR <<FULL DROPBOX>>
+    3.2.- ESCRIBIR NOMBRE DE TU APP. Ejm: Mi_app1
+    3.3.- ACEPTAR TÈRMINOS Y CONDICIONES.
+4.- ELEGIR GENERAR TOKEN Y GUARDAR PARA USAR EN EL SCRIPT.
+
+	  <<COMANDOS PARA INSTALAR LIBRERIA>>>
+$ sudo pip install dropbox
+-------------------------------------------
+Distribuciòn usada: UBUNTU 18.04
+Version de Python : 2.7.15+
+-------------------------------------------
+Dudas o Aportes:
+https://www.facebook.com/dantee.mauri
+
+Git: 
+https://github.com/mauricio1499
+
+
+| ___ \      _                             (_)    (_)     /  |  /   ||  _  ||  _  |
+| |_/ /_   _(_)  _ __ ___   __ _ _   _ _ __ _  ___ _  ___ `| | / /| || |_| || |_| |
+| ___ \ | | |   | '_ ` _ \ / _` | | | | '__| |/ __| |/ _ \ | |/ /_| |\____ |\____ |
+| |_/ / |_| |_  | | | | | | (_| | |_| | |  | | (__| | (_) || |\___  |.___/ /.___/ /
+\____/ \__, (_) |_| |_| |_|\__,_|\__,_|_|  |_|\___|_|\___/\___/   |_/\____/ \____/ 
+        __/ |                                                                      
+       |___/                                                           
